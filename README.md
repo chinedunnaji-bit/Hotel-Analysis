@@ -66,6 +66,4 @@ The analysis highlights important trends and patterns in the hotel dataset, whic
 
 ## Additional Resources
 
-- **Medium Article**: [Link to Medium Article](https://medium.com/@ebube45/06f0c3e575e5)
-- **Tableau Visualization**: [Link to Tableau Visualization](https://public.tableau.com/app/profile/david.nnaji/viz/HotelDashBoard/HotelDashboard)
 - **Data Source**: [DataFrik - Hotel Dataset](https://datafrik.co/#/datasets)
